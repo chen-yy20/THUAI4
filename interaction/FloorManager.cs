@@ -5,6 +5,7 @@ using UnityEngine;
 using UnityEngine.PlayerLoop;
 using Es.InkPainter;
 
+//great my friend!
 public class FloorManager : MonoBehaviour{
     public const int MAP_SIZE = 19;
     public static string[,] FloorColor;
